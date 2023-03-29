@@ -1,7 +1,5 @@
 # Mirror
 
-https://mirror.turbowarp.xyz/
-
 These are some scripts for making mirrors of [TurboWarp](https://turbowarp.org/).
 
 ## How to make your own mirror
